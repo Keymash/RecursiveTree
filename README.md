@@ -7,4 +7,4 @@ Controls:
 + Left and Right arrows: Increases/decreases angle of branch split
 + Plus and Minus: Increase/Decrease iterations
 
-Source code in zip as well.
+Source code in zip as well. Java 8 must be installed.
